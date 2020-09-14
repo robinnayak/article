@@ -2,7 +2,7 @@ import React from "react";
 import HomeRoundedIcon from "@material-ui/icons/HomeRounded";
 import { Link } from "react-router-dom";
 import "./Navbar.css";
-import Add from "./component/pages.jsx/Add";
+
 
 function Navbar() {
   return (
